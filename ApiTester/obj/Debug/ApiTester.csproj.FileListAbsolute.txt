@@ -1,0 +1,8 @@
+C:\Apple\Projects\N26Restful\ApiTester\bin\Debug\ApiTester.exe.config
+C:\Apple\Projects\N26Restful\ApiTester\bin\Debug\ApiTester.exe
+C:\Apple\Projects\N26Restful\ApiTester\bin\Debug\ApiTester.pdb
+C:\Apple\Projects\N26Restful\ApiTester\bin\Debug\Newtonsoft.Json.dll
+C:\Apple\Projects\N26Restful\ApiTester\bin\Debug\Newtonsoft.Json.xml
+C:\Apple\Projects\N26Restful\ApiTester\obj\Debug\ApiTester.csprojResolveAssemblyReference.cache
+C:\Apple\Projects\N26Restful\ApiTester\obj\Debug\ApiTester.exe
+C:\Apple\Projects\N26Restful\ApiTester\obj\Debug\ApiTester.pdb
